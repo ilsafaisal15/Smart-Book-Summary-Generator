@@ -4,7 +4,6 @@ A powerful yet simple Gradio app that summarizes long articles, book excerpts, o
 
 > 🚀 Built with beginners in mind — but polished for real-world use.
 
-![Smart Summary UI](https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/spaces/summary_example.png)
 
 ---
 
@@ -33,10 +32,11 @@ A powerful yet simple Gradio app that summarizes long articles, book excerpts, o
 
 ---
 ## 📁 Project Structure
-
+---
 ├── app.py # Main Gradio app code
 ├── requirements.txt # List of required libraries for Hugging Face + Gradio
----
+
+----
 
 ## 📥 Sample Input
 
