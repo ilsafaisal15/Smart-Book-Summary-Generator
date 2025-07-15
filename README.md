@@ -33,8 +33,8 @@ A powerful yet simple Gradio app that summarizes long articles, book excerpts, o
 ---
 ## 📁 Project Structure
 ---
- -app.py # Main Gradio app code
- -requirements.txt # List of required libraries for Hugging Face + Gradio
+ -app.py (main gardio app)
+ -requirements.txt ( List of required libraries for Hugging Face + Gradio)
 
 ----
 
